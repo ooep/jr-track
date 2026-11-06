@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>ページが見つかりません (HTTP 404 Not Found) - 配線略図.net</title>
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+<link rel="stylesheet" href="/common/common.min.css" />
+<script>{'use strict';document.querySelector("html").classList.add("js-enabled");var hs={_ready:[],_load:[],_resize:[],_onReady:()=>{hs.ready=(e=>{window.setTimeout(e,0)}),hs._ready.forEach(hs.ready)},_onLoad:()=>{hs.load=(e=>{window.setTimeout(e,0)}),hs._load.forEach(hs.load)},ready:e=>{hs._ready.push(e)},load:e=>{hs._load.push(e)},resize:e=>{window.addEventListener("resize",e)},y:{},map:{}};document.addEventListener("DOMContentLoaded",hs._onReady),window.addEventListener("load",hs._onLoad);}</script>
+<script>hs.load(()=>{(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W6WLMRS')});</script>
+<link rel="icon" type="image/png" href="/favicon.ico" />
+<link rel="manifest" type="application/json" href="/manifest.json">
+<link rel="apple-touch-icon" type="image/png" href="/common/images/icon_120.png" />
+<link rel="apple-touch-icon" type="image/png" sizes="152x152" href="/common/images/icon_152.png" />
+<link rel="apple-touch-icon" type="image/png" sizes="167x167" href="/common/images/icon_167.png" />
+<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/common/images/icon_180.png" />
+</head>
+
+<body>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6WLMRS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<header id="header">
+    <div class="hdr_linkc">
+        <div class="hdr_link"><a href="/books/" title="書籍・グッズ">書籍・グッズ</a></div><div class="hdr_link"><a href="/about/kiyaku/" title="利用規約">利用規約</a></div><div class="hdr_link"><a href="/about/" title="サイトについて">サイトについて</a></div><div class="hdr_link"><a href="/about/legend/" title="凡例">凡例</a></div>
+    </div>
+    <div class="hdr_logo">
+        <a href="/"  title="配線略図.net">
+            <img loading="lazy" src="/common/images/hdr_logo.svg" alt="配線略図.net" width="300" height="60" />
+        </a>
+    </div>
+    <div class="hdr_bar">
+        <div class="hdr_url">
+            <a href="/" title="配線略図.net">www.haisenryakuzu.net/</a>
+        </div>
+    </div>
+    <ul class="reset hdr_buttons snsAccntList">
+        <li><a href="https://x.com/haisennet" title="X" class="snsAccntList_x-sns">Tw</a></li><li><a href="https://www.facebook.com/haisennet" title="Facebook" class="snsAccntList_facebook">FB</a></li><li><a href="https://www.instagram.com/haisennet/" title="Instagram" class="snsAccntList_instagram">IG</a></li><li><a href="https://www.threads.net/@haisennet" title="Threads" class="snsAccntList_threads">TH</a></li><li><a href="https://mstdn.jp/@haisennet" title="Mastodon" class="snsAccntList_mastodon">MS</a></li><li><a href="/rss/index.xml" title="RSS feed" class="snsAccntList_rss">RSS</a></li><li><a href="https://www.youtube.com/c/+HaisenryakuzuNet" title="YouTube channel" class="snsAccntList_youtube">YT</a></li>
+    </ul>
+    <div class="hdr_nav">
+        <nav>
+            <div><a href="/documents/jr/" title="JR">JR</a></div><div><a href="/documents/pr/" title="私鉄">私鉄</a></div><div><a href="/documents/metro/" title="地下鉄">地下鉄</a></div><div><a href="/documents/" title="索引">索引</a></div><div><a href="/documents/feature/" title="特集">特集</a>
+            </div>
+        </nav>
+    </div>
+</header>
+<nav><p id="breadcrumb"><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/" rel="home" itemprop="url"><span itemprop="title">配線略図.net</span></a></span> &gt; <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><span itemprop="title">HTTP 404</span></span></p></nav>
+
+<main>
+<div class="h1_cont h1_default"><h1>ページが見つかりません (HTTP 404 Not Found)</h1></div>
+<p>ご指定のページは見つかりませんでした。アドレスが間違っている可能性があります。</p>
+<ul>
+<li>前のページに戻るか、ページ上部のメニューから目的のページをお探しください。</li>
+<li>アドレスバーに入力したアドレスや、ブックマークに登録したアドレスをご確認ください。</li>
+<li>しばらく待ってから再度アクセスしてみて下さい。</li>
+</ul>
+<p>当サイト内でのリンクミスの場合、作者が把握し次第対応いたします。ご迷惑をお掛けし申し訳ございません。</p>
+</main>
+
+<footer>
+    <nav class="ft_nav">
+        <div>
+            <h3><a href="/documents/jr/" title="JR">JR</a></h3>
+            <ul class="reset ft_navcontent">
+                <li>
+                    <a href="/documents/jr/east/" title="JR東日本">JR東日本</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/hokkaido/" title="JR北海道">JR北海道</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/tokai/" title="JR東海">JR東海</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/west/" title="JR西日本">JR西日本</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/shikoku/" title="JR四国">JR四国</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/kyushu/" title="JR九州">JR九州</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/freight/" title="JR貨物">JR貨物</a>
+                </li>
+                <li>
+                    <a href="/documents/jr/shinkansen/" title="新幹線">新幹線</a>
+                </li>
+            </ul>
+        </div><div>
+            <h3><a href="/documents/pr/" title="私鉄">私鉄</a></h3>
+            <ul class="reset ft_navcontent">
+                <li>
+                    <a href="/documents/pr/keisei/" title="京成電鉄">京成電鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/tobu/" title="東武鉄道">東武鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/seibu/" title="西武鉄道">西武鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/keio/" title="京王電鉄">京王電鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/odakyu/" title="小田急電鉄">小田急電鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/tokyu/" title="東急電鉄">東急電鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/keikyu/" title="京浜急行電鉄">京浜急行電鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/nagoya/" title="名古屋鉄道">名古屋鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/kinki/" title="近畿日本鉄道">近畿日本鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/hanshin/" title="阪神電気鉄道">阪神電気鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/hankyu/" title="阪急電鉄">阪急電鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/keihan/" title="京阪電気鉄道">京阪電気鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/nankai/" title="南海電気鉄道">南海電気鉄道</a>
+                </li>
+                <li>
+                    <a href="/documents/pr/" title="その他">その他</a>
+                </li>
+            </ul>
+        </div><div>
+            <h3><a href="/documents/metro/" title="地下鉄・軌道">地下鉄・軌道</a></h3>
+            <ul class="reset ft_navcontent">
+                <li>
+                    <a href="/documents/metro/tokyometro/" title="東京地下鉄">東京地下鉄</a>
+                </li>
+                <li>
+                    <a href="/documents/metro/tokyotoei/" title="東京都交通局">東京都交通局</a>
+                </li>
+                <li>
+                    <a href="/documents/metro/yokohama/" title="横浜市営地下鉄">横浜市営地下鉄</a>
+                </li>
+            </ul>
+        </div><div>
+            <h3><a href="/documents/feature/" title="特集記事">特集記事</a></h3>
+            <ul class="reset ft_navcontent">
+                <li>
+                    <a href="/books/" title="配線略図.netの書籍">配線略図.netの書籍</a>
+                </li>
+                <li>
+                    <a href="/documents/feature/" title="特集記事">特集記事</a>
+                </li>
+            </ul>
+        </div><div>
+            <h3><a href="/about/" title="このサイトについて">このサイトについて</a></h3>
+            <ul class="reset ft_navcontent">
+                <li>
+                    <a href="/about/kiyaku/" title="利用規約">利用規約</a>
+                </li>
+                <li>
+                    <a href="/about/privacy/" title="プライバシーポリシー">プライバシーポリシー</a>
+                </li>
+                <li>
+                    <a href="/about/legend/" title="総合凡例">総合凡例</a>
+                </li>
+                <li>
+                    <a href="/about/history/" title="サイト全体の更新履歴">サイト全体の更新履歴</a>
+                </li>
+                <li>
+                    <a href="/about/csr/" title="CSR">CSR</a>
+                </li>
+                <li>
+                    <a href="/about/sitemap/" title="サイトマップ">サイトマップ</a>
+                </li>
+                <li>
+                    <a href="/about/link/" title="リンク">リンク</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="ft_box">
+        <div class="ft_license">
+            <div class="ft_license_text">
+                <p lang="ja">当サイトの文章・配線略図・写真は日本国の著作権法により保護されています。ただし、作者は<a rel="license" href="https://creativecommons.org/licenses/by/4.0/">クリエイティブ・コモンズ 表示 4.0 国際 ライセンス</a>に基づき、<strong>出典を明記した上での</strong>転載・改変を認めます。詳細は<a href="/about/kiyaku/" rel="license">利用規約</a>をお読みください。</p>
+            </div>
+            <div class="ft_license_cc">
+                <div class="ft_license_cc_icon">
+                    <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="{'ja':'クリエイティブ・コモンズ・ライセンス', 'en':'Creative Commons License'}">
+                        <img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="クリエイティブ・コモンズ・ライセンス" width="81" height="31">
+                    </a>
+                </div>
+                <div class="ft_license_cc_text">
+                    <p lang="en">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+                </div>
+            </div>
+        </div>
+        <div class="ft_environment">
+            <div class="ft_environment_icon">
+                <a href="/about/csr/" title="{{ {'ja':'CSR（社会的責任）', 'en':'CSR'}|lang }}">
+                    <img src="/common/images/leaf.png" alt="CSR" width="100" height="100">
+                </a>
+            </div>
+            <div class="ft_environment_text">
+                <p>当サイトでは、サイトの運営や調査旅行に際し排出される二酸化炭素量に相当する金額を、二酸化炭素排出削減事業に寄付することによってカーボンニュートラルを目指しています。</p>
+            </div>
+        </div>
+    </div>
+    <address><a href="/cdn-cgi/l/email-protection#513a3825303c30253e6061621139303822343f2328303a242b247f3f3425">作者にメール</a></address>
+    <nav class="ft_link">
+        <ul class="reset">
+            <li><a href="#header">上へ</a></li>
+            <li><a href="/">ホーム</a></li>
+            <li><a href="/random/">ランダム表示</a></li>
+        </ul>
+        <ul class="reset">
+            <li><a href="https://x.com/haisennet" title="X">X</a></li>
+            <li><a href="https://www.facebook.com/haisennet" title="Facebook">Facebook</a></li>
+            <li><a href="https://www.instagram.com/haisennet/" title="Instagram">Instagram</a></li>
+            <li><a href="https://www.threads.net/@haisennet">Threads</a></li>
+            <li><a href="https://mstdn.jp/@haisennet" title="Mastodon">Mastodon</a></li>
+            <li><a href="/rss/index.xml" title="RSS feed">RSS</a></li>
+            <li><a href="https://www.youtube.com/c/+HaisenryakuzuNet">YouTube channel</a></li>
+            <li><a href="http://haikasha.mars.jp">姉妹サイト 廃貨車写真館</a></li>
+        </ul>
+    </nav>
+    </ul>
+    <p>当サイトはAmazonアソシエイト・楽天アフィリエイトに参加しています。サイト中の商品リンクはアフィリエイトリンクを含む場合がございます。</p>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>

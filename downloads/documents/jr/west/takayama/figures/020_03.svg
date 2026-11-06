@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/common/tlmaps.css"?>
+<?xml-stylesheet type="text/css" href="/common/fonts/GSG-Pm-HSNT.css"?>
+<svg id="_Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 724.2 152">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        stroke-width: .8px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4, .cls-5, .cls-6 {
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: #000;
+      }
+
+      .cls-11, .cls-15 {
+        stroke-width: 0px;
+      }
+
+      .cls-12 {
+        font-size: 16px;
+      }
+
+      .cls-12, .cls-13, .cls-14 {
+        font-family: 'GenShinGothic-P-Medium-HSNT';
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        font-size: 8px;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 8;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        font-size: 11px;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        letter-spacing: 0em;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+
+      .cls-38 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+
+      .cls-40 {
+        letter-spacing: 0em;
+      }
+
+      .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        letter-spacing: 0em;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        fill: #fff;
+      }
+
+      .cls-45 {
+        letter-spacing: 0em;
+      }
+
+      .cls-46 {
+        letter-spacing: 0em;
+      }
+
+      .cls-47 {
+        letter-spacing: 0em;
+      }
+
+      .cls-48 {
+        letter-spacing: 0em;
+      }
+
+      .cls-49 {
+        letter-spacing: 0em;
+      }
+
+      .cls-50 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        stroke: #404040;
+      }
+
+      .cls-51 {
+        letter-spacing: 0em;
+      }
+
+      .cls-52 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-12" transform="translate(312.1 115.4)"><tspan x="0" y="0">富山</tspan></text>
+  <text class="cls-14" transform="translate(306.8 130.1)"><tspan x="0" y="0">T</tspan><tspan class="cls-46" x="6.7" y="0">o</tspan><tspan class="cls-8" x="13.5" y="0">y</tspan><tspan class="cls-32" x="19.5" y="0">a</tspan><tspan class="cls-50" x="25.8" y="0">m</tspan><tspan x="36.2" y="0">a</tspan></text>
+  <a href="/documents/pr/ainokaze-toyama/#takaoka" target="_top" >
+    <text class="cls-14" transform="translate(31.4 58.4)"><tspan x="0" y="0">あ</tspan><tspan class="cls-1" x="10.2" y="0">い</tspan><tspan class="cls-34" x="20.4" y="0">の</tspan><tspan x="31" y="0">風</tspan><tspan class="cls-26" x="42" y="0">と</tspan><tspan class="cls-17" x="50.5" y="0">や</tspan><tspan class="cls-35" x="61.4" y="0">ま</tspan><tspan x="70.4" y="0">鉄道線</tspan><tspan class="cls-37" x="103.6" y="0"> </tspan><tspan x="106.1" y="0">呉羽方</tspan></text>
+    <text class="cls-13" transform="translate(14.2 73.4)"><tspan class="cls-27" x="0" y="0">A</tspan><tspan class="cls-9" x="5" y="0">i</tspan><tspan class="cls-47" x="7.3" y="0">n</tspan><tspan class="cls-23" x="12.4" y="0">o</tspan><tspan class="cls-42" x="17.3" y="0">ka</tspan><tspan class="cls-28" x="26.4" y="0">z</tspan><tspan class="cls-16" x="30.4" y="0">e</tspan><tspan x="34.9" y="0"> </tspan><tspan class="cls-16" x="36.7" y="0">T</tspan><tspan class="cls-23" x="41.6" y="0">o</tspan><tspan class="cls-45" x="46.6" y="0">y</tspan><tspan class="cls-7" x="50.9" y="0">a</tspan><tspan class="cls-23" x="55.4" y="0">m</tspan><tspan class="cls-42" x="63" y="0">a</tspan><tspan x="67.6" y="0"> </tspan><tspan class="cls-16" x="69.4" y="0">R</tspan><tspan class="cls-7" x="74.6" y="0">a</tspan><tspan class="cls-9" x="79.2" y="0">i</tspan><tspan x="81.5" y="0">l</tspan><tspan class="cls-45" x="83.9" y="0">w</tspan><tspan class="cls-42" x="90.5" y="0">a</tspan><tspan class="cls-45" x="95" y="0">y</tspan><tspan x="99.4" y="0"> </tspan><tspan class="cls-44" x="101.2" y="0">L</tspan><tspan class="cls-18" x="105.6" y="0">i</tspan><tspan class="cls-28" x="107.9" y="0">n</tspan><tspan class="cls-16" x="112.9" y="0">e</tspan><tspan x="117.5" y="0"> </tspan><tspan class="cls-38" x="119.3" y="0">t</tspan><tspan class="cls-23" x="122.5" y="0">o</tspan><tspan x="127.5" y="0"> </tspan><tspan class="cls-39" x="129.3" y="0">K</tspan><tspan class="cls-7" x="134.5" y="0">u</tspan><tspan class="cls-39" x="139.5" y="0">r</tspan><tspan class="cls-36" x="142.7" y="0">e</tspan><tspan class="cls-22" x="147.3" y="0">h</tspan><tspan x="152.3" y="0">a</tspan></text>
+  </a>
+  <a href="/documents/pr/ainokaze-toyama/#toyama" target="_top" >
+    <text class="cls-14" transform="translate(406 58.4)"><tspan x="0" y="0">あ</tspan><tspan class="cls-10" x="10.2" y="0">い</tspan><tspan class="cls-48" x="20.4" y="0">の</tspan><tspan x="31" y="0">風</tspan><tspan class="cls-26" x="42" y="0">と</tspan><tspan class="cls-50" x="50.5" y="0">や</tspan><tspan class="cls-25" x="61.4" y="0">ま</tspan><tspan x="70.4" y="0">鉄道線</tspan><tspan class="cls-37" x="103.6" y="0"> </tspan><tspan x="106.1" y="0">富山貨物方</tspan></text>
+    <text class="cls-13" transform="translate(405.6 73.4)"><tspan class="cls-31" x="0" y="0">A</tspan><tspan class="cls-49" x="5" y="0">i</tspan><tspan class="cls-29" x="7.3" y="0">n</tspan><tspan class="cls-23" x="12.4" y="0">o</tspan><tspan class="cls-7" x="17.3" y="0">ka</tspan><tspan class="cls-29" x="26.4" y="0">z</tspan><tspan class="cls-36" x="30.4" y="0">e</tspan><tspan x="34.9" y="0"> </tspan><tspan class="cls-36" x="36.7" y="0">T</tspan><tspan class="cls-51" x="41.6" y="0">o</tspan><tspan class="cls-33" x="46.6" y="0">y</tspan><tspan class="cls-7" x="50.9" y="0">a</tspan><tspan class="cls-23" x="55.4" y="0">m</tspan><tspan class="cls-43" x="63" y="0">a</tspan><tspan class="cls-19" x="67.6" y="0"> </tspan><tspan class="cls-41" x="69.4" y="0">R</tspan><tspan class="cls-7" x="74.6" y="0">a</tspan><tspan class="cls-49" x="79.2" y="0">i</tspan><tspan x="81.5" y="0">l</tspan><tspan class="cls-33" x="83.9" y="0">w</tspan><tspan class="cls-7" x="90.5" y="0">a</tspan><tspan class="cls-24" x="95" y="0">y</tspan><tspan class="cls-19" x="99.4" y="0"> </tspan><tspan class="cls-52" x="101.2" y="0">L</tspan><tspan class="cls-9" x="105.6" y="0">i</tspan><tspan class="cls-29" x="107.9" y="0">n</tspan><tspan class="cls-41" x="112.9" y="0">e</tspan><tspan class="cls-19" x="117.5" y="0"> </tspan><tspan class="cls-40" x="119.3" y="0">t</tspan><tspan class="cls-23" x="122.5" y="0">o</tspan><tspan class="cls-19" x="127.5" y="0"> </tspan><tspan class="cls-41" x="129.3" y="0">T</tspan><tspan class="cls-23" x="134.2" y="0">o</tspan><tspan class="cls-33" x="139.1" y="0">y</tspan><tspan class="cls-7" x="143.4" y="0">a</tspan><tspan class="cls-51" x="148" y="0">m</tspan><tspan class="cls-7" x="155.5" y="0">a</tspan><tspan x="160.1" y="0"> </tspan><tspan class="cls-30" x="161.9" y="0">F</tspan><tspan class="cls-39" x="166.5" y="0">r</tspan><tspan class="cls-41" x="169.7" y="0">e</tspan><tspan class="cls-9" x="174.3" y="0">i</tspan><tspan class="cls-21" x="176.5" y="0">g</tspan><tspan class="cls-20" x="181.2" y="0">h</tspan><tspan x="186.3" y="0">t</tspan></text>
+  </a>
+  <rect class="cls-11" x=".5" y="142" width=".1" height="1"/>
+  <rect class="cls-11" x="9.2" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="26.5" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="43.8" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="61.1" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="78.4" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="95.6" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="112.9" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="130.2" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="147.5" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="164.8" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="182" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="199.3" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="216.6" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="233.9" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="251.2" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="268.4" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="285.7" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="303" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="320.3" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="337.6" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="354.8" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="372.1" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="389.4" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="406.7" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="424" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="441.2" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="458.5" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="475.8" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="493.1" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="510.4" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="527.6" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="544.9" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="562.2" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="579.5" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="596.8" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="614" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="631.3" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="648.6" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="665.9" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="683.2" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="700.4" y="142" width="8.6" height="1"/>
+  <rect class="cls-11" x="717.7" y="142" width="6.1" height="1"/>
+  <rect class="cls-11" x="3.5" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="20.8" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="38" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="55.3" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="72.6" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="89.9" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="107.2" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="124.4" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="141.7" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="159" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="176.3" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="193.6" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="210.8" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="228.1" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="245.4" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="262.7" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="280" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="297.2" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="314.5" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="331.8" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="349.1" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="366.4" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="383.6" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="400.9" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="418.2" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="435.5" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="452.8" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="470" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="487.3" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="504.6" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="521.9" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="539.2" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="556.4" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="573.7" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="591" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="608.3" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="625.6" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="642.8" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="660.1" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="677.4" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="694.7" y="142" width="2.9" height="1"/>
+  <rect class="cls-11" x="712" y="142" width="2.9" height="1"/>
+  <line class="cls-6" x1="177.1" y1="45.7" x2="236.2" y2="45.7"/>
+  <line class="cls-6" x1="177.1" y1="63.8" x2="398.5" y2="63.8"/>
+  <line class="cls-6" x1="206.6" y1="73" x2="246.1" y2="73"/>
+  <line class="cls-6" x1="265.7" y1="9.1" x2="280.6" y2="36.6"/>
+  <line class="cls-6" x1="255.8" y1="9.2" x2="369" y2="9.2"/>
+  <rect class="cls-15" x="300.2" y="14.3" width="54.3" height="8.5" rx="2" ry="2" data-round="1"/>
+  <rect class="cls-3" x="300.2" y="14.3" width="54.3" height="8.5" rx="2" ry="2" data-round="1"/>
+  <line class="cls-5" x1="300.1" y1="52" x2="300.1" y2="57.5" data-round="1"/>
+  <line class="cls-5" x1="301.9" y1="59.3" x2="354.1" y2="59.3" data-round="1"/>
+<path class="cls-5" d="M 300.1 57.5 A 1.8 1.8 0 0 0 301.9 59.3" data-round="1"/>
+  <line class="cls-5" x1="354.2" y1="59.3" x2="354.2" y2="42.8" data-round="1"/>
+  <line class="cls-5" x1="301.9" y1="50.2" x2="318" y2="50.2" data-round="1"/>
+<path class="cls-5" d="M 300.1 52 A 1.8 1.8 0 0 1 301.9 50.2" data-round="1"/>
+  <line class="cls-5" x1="319.8" y1="48.4" x2="319.8" y2="42.8" data-round="1"/>
+<path class="cls-5" d="M 318 50.2 A 1.8 1.8 0 0 0 319.8 48.4" data-round="1"/>
+  <line class="cls-5" x1="352.4" y1="41" x2="321.6" y2="41" data-round="1"/>
+<path class="cls-5" d="M 319.8 42.8 A 1.8 1.8 0 0 1 321.6 41" data-round="1"/>
+<path class="cls-5" d="M 354.2 42.8 A 1.8 1.8 0 0 0 352.4 41" data-round="1"/>
+  <line class="cls-2" x1="315" y1="41" x2="315" y2="50.2"/>
+  <line class="cls-4" x1="290.4" y1="39.4" x2="294.921" y2="45.364" data-round="1"/>
+  <line class="cls-6" x1="246.1" y1="73" x2="251.1" y2="63.8"/>
+  <line class="cls-6" x1="364.1" y1="27.4" x2="359.2" y2="36.4"/>
+  <line class="cls-6" x1="369.1" y1="9" x2="388.7" y2="45.5"/>
+  <line class="cls-6" x1="236.2" y1="45.7" x2="255.8" y2="9.1"/>
+  <line class="cls-6" x1="364.1" y1="36.4" x2="388.7" y2="63.8"/>
+  <line class="cls-6" x1="255.8" y1="63.8" x2="270.7" y2="36.4"/>
+  <line class="cls-6" x1="300.1" y1="36.5" x2="364.1" y2="36.5"/>
+  <line class="cls-2" x1="256" y1="68.4" x2="256" y2="77.5"/>
+  <line class="cls-4" x1="246.1" y1="73" x2="256" y2="73"/>
+  <line class="cls-4" x1="192.257" y1="73" x2="206.6" y2="73" data-round="1"/>
+  <line class="cls-6" x1="388.7" y1="45.6" x2="398.5" y2="45.6"/>
+  <line class="cls-4" x1="206.6" y1="63.8" x2="216.5" y2="45.6"/>
+  <line class="cls-4" x1="196.8" y1="73" x2="201.7" y2="63.8"/>
+  <line class="cls-4" x1="182.17" y1="90.887" x2="191.73" y2="73.313" data-round="1"/>
+<path class="cls-4" d="M 192.257 73 A 0.6 0.6 0 0 0 191.73 73.313" data-round="1"/>
+  <line class="cls-4" x1="295.396" y1="45.601" x2="315" y2="45.7" data-round="1"/>
+<path class="cls-4" d="M 294.921 45.364 A 0.6 0.6 0 0 0 295.396 45.601" data-round="1"/>
+  <line class="cls-6" x1="359.2" y1="27.4" x2="364.1" y2="36.4"/>
+  <line class="cls-6" x1="275.7" y1="27.4" x2="378.8" y2="27.4"/>
+  <line class="cls-6" x1="280.5" y1="27.4" x2="275.5" y2="36.4"/>
+  <line class="cls-2" x1="246" y1="73" x2="248.4" y2="77.5"/>
+  <line class="cls-2" x1="248.1" y1="73" x2="250.7" y2="77.5"/>
+  <line class="cls-6" x1="270.6" y1="36.5" x2="280.4" y2="36.5"/>
+  <line class="cls-6" x1="280.4" y1="36.5" x2="290.3" y2="39.4"/>
+  <line class="cls-6" x1="290.3" y1="39.4" x2="300.1" y2="36.5"/>
+  <line class="cls-4" y1="91.2" x2="181.643" y2="91.2" x1="0" data-round="1"/>
+<path class="cls-4" d="M 182.17 90.887 A 0.6 0.6 0 0 1 181.643 91.2" data-round="1"/>
+</svg>

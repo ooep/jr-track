@@ -1,0 +1,95 @@
+name: round-corners
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'scan=只读扫描报告; apply=变换并分批推送（唯一会提交的入口）'
+        required: true
+        default: 'scan'
+        type: choice
+        options: [scan, apply]
+      area_loss_max:
+        description: '站台面积损失上限(默认取 tools/params.json)'
+        required: false
+        default: ''
+        type: string
+      batch:
+        description: '每批提交文件数上限(默认100)'
+        required: false
+        default: '100'
+        type: string
+  schedule:
+    # 每 30 分钟增量巡检：仅 scan，不提交（apply 只走 workflow_dispatch）
+    - cron: '*/30 * * * *'
+  push:
+    branches: [main]
+    paths: ['downloads/**/*.svg']
+
+concurrency:
+  group: round-corners
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: scan (always, read-only)
+        run: |
+          python tools/round_corners.py scan --root downloads \
+            --json-out scan_report.json \
+            --area-loss-max "${{ inputs.area_loss_max || '0.01' }}" > scan_stdout.json
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          d = json.load(open('scan_report.json'))
+          ps, ts = d['platform_stats'], d['track_stats']
+          print(f"### scan\n- svg total: {d['total_svg']}, corrupted: {d['corrupted']}\n"
+                f"- platforms: total {ps['total']}, roundable {ps['roundable']}, "
+                f"area_conflict {ps['area_conflict']}, gap_conflict {ps['gap_conflict']}\n"
+                f"- tracks: lines {ts['lines']}, stroked paths {ts['paths_stroked']}, "
+                f"flat {ts['flat_paths']+ts['flat_rects']}, deg2-junctions {ts['junc_deg2_samestyle']}\n"
+                f"- area_loss_max: {d['area_loss_max_used']}\n")
+          if d['corrupt_list']:
+              print("- corrupted files:")
+              for c in d['corrupt_list'][:30]:
+                  print(f"  - {c['path']} ({c['reason'] or 'not_closed'})")
+          PY
+
+      - name: incremental check (自上次 apply 以来的 figures 增量)
+        run: |
+          python scripts/incremental_check.py --root downloads | tee incremental_check.json >> "$GITHUB_STEP_SUMMARY"
+
+      - name: incremental apply (push only, 仅本 push 触碰文件)
+        if: github.event_name == 'push'
+        run: |
+          python tools/batch_apply.py --root downloads --batch 100 \
+            --incremental ${{ github.event.before }} ${{ github.event.after }}
+
+      - name: full apply + batched push (dispatch only)
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'apply'
+        run: |
+          ARGS="--root downloads --batch ${{ inputs.batch || '100' }}"
+          if [ -n "${{ inputs.area_loss_max }}" ]; then
+            ARGS="$ARGS --area-loss-max ${{ inputs.area_loss_max }}"
+          fi
+          python tools/batch_apply.py $ARGS
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: round-corners-report
+          path: |
+            scan_report.json
+            apply_report.json
+          if-no-files-found: ignore

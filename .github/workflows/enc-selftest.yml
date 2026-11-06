@@ -1,0 +1,122 @@
+name: enc-selftest
+
+# Verifies the verify-then-write contract end to end:
+#   baseline verify-only -> full decrypt + clean -> tampered ciphertext,
+#   tampered manifest and wrong key must all be rejected with ZERO files
+#   written to the workspace. Read-only permissions.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4.4.0
+
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065  # v5.6.0
+        with:
+          python-version: "3.12"
+
+      - name: Step 1/6
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: |
+          set -Eeuo pipefail
+          python3 encryption/decrypt.py decrypt --verify-only --enc encrypted --manifest encryption/manifest.tsv --out .
+
+      - name: Step 2/6
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: |
+          set -Eeuo pipefail
+          python3 encryption/decrypt.py decrypt --enc encrypted --manifest encryption/manifest.tsv --out .
+          python3 encryption/decrypt.py clean --out .
+          test -z "$(git status --porcelain)"
+
+      - name: Step 3/6
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: |
+          set -uo pipefail
+          f="$(ls encrypted/*.enc | head -1)"
+          python3 - "$f" <<'PY'
+          import sys
+          p = sys.argv[1]
+          b = bytearray(open(p, 'rb').read())
+          b[-1] ^= 0x5A
+          open(p, 'wb').write(bytes(b))
+          PY
+          if python3 encryption/decrypt.py decrypt --verify-only --enc encrypted --manifest encryption/manifest.tsv --out . ; then
+            echo "::error::tampered ciphertext passed verification"
+            exit 1
+          fi
+          if python3 encryption/decrypt.py decrypt --enc encrypted --manifest encryption/manifest.tsv --out . ; then
+            echo "::error::tampered ciphertext reached write phase"
+            exit 1
+          fi
+          if [ -n "$(git status --porcelain | grep -v '^ M encrypted/')" ]; then
+            echo "::error::unexpected workspace files after tamper"
+            git status --porcelain
+            exit 1
+          fi
+          echo "TAMPER-CIPHERTEXT: rejected, zero writes"
+
+      - name: Step 4/6
+        env:
+          OOEP_PASSPHRASE: ${{ secrets.CODE_KEY }}
+        run: |
+          set -uo pipefail
+          git checkout -- encrypted/
+          python3 - <<'PY'
+          lines = open('encryption/manifest.tsv').read().splitlines()
+          for i, ln in enumerate(lines):
+              if ln and not ln.startswith('#'):
+                  parts = ln.split('\t')
+                  sha = list(parts[1])
+                  sha[0] = '0' if sha[0] != '0' else '1'
+                  parts[1] = ''.join(sha)
+                  lines[i] = '\t'.join(parts)
+                  break
+          open('encryption/manifest.tsv', 'w').write('\n'.join(lines) + '\n')
+          PY
+          if python3 encryption/decrypt.py decrypt --verify-only --enc encrypted --manifest encryption/manifest.tsv --out . ; then
+            echo "::error::tampered manifest passed verification"
+            exit 1
+          fi
+          if [ -n "$(git status --porcelain | grep -v '^ M encryption/manifest.tsv')" ]; then
+            echo "::error::unexpected workspace files after manifest tamper"
+            git status --porcelain
+            exit 1
+          fi
+          echo "TAMPER-MANIFEST: rejected, zero writes"
+
+      - name: Step 5/6
+        env:
+          OOEP_PASSPHRASE: "deliberately-wrong-key-0000"
+        run: |
+          set -uo pipefail
+          git checkout -- encryption/manifest.tsv
+          if python3 encryption/decrypt.py decrypt --verify-only --enc encrypted --manifest encryption/manifest.tsv --out . ; then
+            echo "::error::wrong key passed verification"
+            exit 1
+          fi
+          test -z "$(git status --porcelain)"
+          echo "WRONG-KEY: rejected, zero writes"
+
+      - name: Step 6/6
+        if: always()
+        run: |
+          set -uo pipefail
+          git checkout -- encrypted/ encryption/ 2>/dev/null || true
+          python3 encryption/decrypt.py clean --out . >/dev/null 2>&1
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::error::worktree not clean"
+            git status --porcelain | python3 encryption/shellredact.py
+            exit 9
+          fi
+          echo "SELFTEST DONE"

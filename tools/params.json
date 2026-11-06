@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "area_loss_max": 0.01,
+  "batch": 100,
+  "note": "enabled=true 仅对 push 增量生效（schedule 恒 scan-only；dispatch 不受闸门限制）。area_loss_max=1% 用户裁定。"
+}

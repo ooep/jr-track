@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/common/tlmaps.css"?>
+<?xml-stylesheet type="text/css" href="/common/fonts/GSG-Pm-HSNT.css"?>
+<svg id="_Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 724.2 247.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: .8px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        stroke-linejoin: round;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #000;
+      }
+
+      .cls-6, .cls-9 {
+        stroke-width: 0px;
+      }
+
+      .cls-7 {
+        font-size: 16px;
+      }
+
+      .cls-7, .cls-8 {
+        font-family: 'GenShinGothic-P-Medium-HSNT';
+      }
+
+      .cls-2, .cls-3 {
+        stroke-miterlimit: 8;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-5 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        stroke-width: .5px;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-size: 11px;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-8" transform="translate(167.2 223.6)"><tspan x="0" y="0">東京地下鉄和光検車区新木場分室・新木場</tspan><tspan class="cls-17" x="204.2" y="0">C</tspan><tspan class="cls-16" x="211.3" y="0">R</tspan><tspan x="218.5" y="0">・総合研修訓練</tspan><tspan class="cls-13" x="290.3" y="0">セ</tspan><tspan x="301" y="0">ン</tspan><tspan class="cls-15" x="311.2" y="0">タ</tspan><tspan x="321.5" y="0">ー</tspan></text>
+  <text class="cls-7" transform="translate(21.8 107.8)"><tspan x="0" y="0">辰巳</tspan></text>
+  <text class="cls-7" transform="translate(97.6 107.8)"><tspan x="0" y="0">新木場</tspan></text>
+  <text class="cls-8" transform="translate(16.3 124.8)"><tspan x="0" y="0">T</tspan><tspan class="cls-14" x="6.7" y="0">a</tspan><tspan class="cls-18" x="13.1" y="0">t</tspan><tspan class="cls-11" x="17.4" y="0">s</tspan><tspan x="22.7" y="0">u</tspan><tspan class="cls-20" x="29.5" y="0">m</tspan><tspan class="cls-10" x="40" y="0">i</tspan></text>
+  <text class="cls-8" transform="translate(96.4 124.8)"><tspan class="cls-13" x="0" y="0">S</tspan><tspan x="6.7" y="0">h</tspan><tspan class="cls-19" x="13.6" y="0">in</tspan><tspan class="cls-12" x="23.5" y="0">-</tspan><tspan class="cls-14" x="27.5" y="0">k</tspan><tspan class="cls-19" x="33.8" y="0">i</tspan><tspan class="cls-13" x="37" y="0">b</tspan><tspan x="43.9" y="0">a</tspan></text>
+  <rect class="cls-6" x=".5" y="237.7" width=".1" height="1"/>
+  <rect class="cls-6" x="9.2" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="26.5" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="43.8" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="61.1" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="78.4" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="95.6" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="112.9" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="130.2" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="147.5" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="164.8" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="182" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="199.3" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="216.6" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="233.9" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="251.2" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="268.4" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="285.7" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="303" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="320.3" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="337.6" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="354.8" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="372.1" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="389.4" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="406.7" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="424" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="441.2" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="458.5" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="475.8" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="493.1" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="510.4" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="527.6" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="544.9" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="562.2" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="579.5" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="596.8" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="614" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="631.3" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="648.6" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="665.9" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="683.2" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="700.4" y="237.7" width="8.6" height="1"/>
+  <rect class="cls-6" x="717.7" y="237.7" width="6.1" height="1"/>
+  <rect class="cls-6" x="3.5" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="20.8" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="38" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="55.3" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="72.6" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="89.9" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="107.2" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="124.4" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="141.7" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="159" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="176.3" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="193.6" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="210.8" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="228.1" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="245.4" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="262.7" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="280" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="297.2" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="314.5" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="331.8" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="349.1" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="366.4" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="383.6" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="400.9" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="418.2" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="435.5" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="452.8" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="470" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="487.3" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="504.6" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="521.9" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="539.2" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="556.4" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="573.7" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="591" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="608.3" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="625.6" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="642.8" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="660.1" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="677.4" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="694.7" y="237.7" width="2.9" height="1"/>
+  <rect class="cls-6" x="712" y="237.7" width="2.9" height="1"/>
+  <line class="cls-5" y1="83.6" x2="319.8" y2="83.6"/>
+  <line class="cls-5" x1="235.108" y1="64.9" x2="0" y2="64.9" data-round="1"/>
+  <rect class="cls-9" x="9.8" y="68.7" width="54.1" height="9.2" rx="2" ry="2" data-round="1"/>
+  <rect class="cls-3" x="9.8" y="68.7" width="54.1" height="9.2" rx="2" ry="2" data-round="1"/>
+  <rect class="cls-9" x="93.5" y="69.6" width="54.1" height="8.7" rx="2" ry="2" data-round="1"/>
+  <rect class="cls-3" x="93.5" y="69.6" width="54.1" height="8.7" rx="2" ry="2" data-round="1"/>
+  <line class="cls-5" x1="152.5" y1="64.9" x2="162.4" y2="83.6"/>
+  <line class="cls-5" x1="162.4" y1="64.9" x2="152.5" y2="83.6"/>
+  <line class="cls-5" x1="216.5" y1="64.9" x2="226.3" y2="83.6"/>
+  <line class="cls-5" x1="226.3" y1="64.9" x2="216.5" y2="83.6"/>
+  <line class="cls-5" x1="236.705" y1="65.868" x2="240.595" y2="73.332" data-round="1"/>
+<path class="cls-5" d="M 235.108 64.9 A 1.8 1.8 0 0 1 236.705 65.868" data-round="1"/>
+  <line class="cls-5" x1="242.192" y1="74.3" x2="303.898" y2="74.3" data-round="1"/>
+<path class="cls-5" d="M 240.595 73.332 A 1.8 1.8 0 0 0 242.192 74.3" data-round="1"/>
+  <line class="cls-5" x1="290.3" y1="74.3" x2="295.2" y2="83.6"/>
+  <line class="cls-5" x1="290.3" y1="83.6" x2="295.2" y2="74.3"/>
+  <line class="cls-5" x1="316.992" y1="106.048" x2="305" y2="83.6" data-round="1"/>
+  <line class="cls-5" x1="305.501" y1="73.318" x2="312.3" y2="60" data-round="1"/>
+<path class="cls-5" d="M 303.898 74.3 A 1.8 1.8 0 0 0 305.501 73.318" data-round="1"/>
+  <line class="cls-5" x1="250.9" y1="93" x2="310" y2="93"/>
+  <line class="cls-1" x1="250.9" y1="88.3" x2="250.9" y2="97.7"/>
+  <line class="cls-5" x1="307.4" y1="60" x2="327.3" y2="97.4"/>
+  <line class="cls-5" x1="314.9" y1="83.6" x2="319.8" y2="74.3"/>
+  <line class="cls-5" x1="307.4" y1="69.6" x2="312.3" y2="69.6"/>
+  <line class="cls-5" x1="314.9" y1="74.3" x2="398.5" y2="74.3"/>
+  <line class="cls-5" x1="250.9" y1="60.2" x2="324.7" y2="60.2"/>
+  <line class="cls-1" x1="250.9" y1="55.6" x2="250.9" y2="64.9"/>
+  <line class="cls-5" x1="332.3" y1="74.3" x2="334.106" y2="77.991" data-round="1"/>
+  <line class="cls-5" x1="335.723" y1="79" x2="398.5" y2="79" data-round="1"/>
+<path class="cls-5" d="M 334.106 77.991 A 1.8 1.8 0 0 0 335.723 79" data-round="1"/>
+  <line class="cls-5" x1="332.3" y1="88.3" x2="334.106" y2="84.609" data-round="1"/>
+  <line class="cls-5" x1="335.723" y1="83.6" x2="398.5" y2="83.6" data-round="1"/>
+<path class="cls-5" d="M 334.106 84.609 A 1.8 1.8 0 0 1 335.723 83.6" data-round="1"/>
+  <line class="cls-5" x1="322" y1="88.3" x2="398.5" y2="88.3"/>
+  <line class="cls-5" x1="327.3" y1="97.7" x2="398.5" y2="97.7"/>
+  <line class="cls-5" x1="324.7" y1="93" x2="398.5" y2="93"/>
+  <line class="cls-5" x1="334.5" y1="60" x2="332" y2="64.9"/>
+  <line class="cls-5" x1="334.5" y1="60.2" x2="398.5" y2="60"/>
+  <line class="cls-5" x1="327.1" y1="46.2" x2="319.8" y2="60"/>
+  <line class="cls-5" x1="354.2" y1="9.1" x2="334.5" y2="46.2"/>
+  <rect class="cls-2" x="344.4" y="41.5" width="64" height="9.4"/>
+  <line class="cls-5" x1="318.579" y1="107" x2="398.5" y2="107" data-round="1"/>
+<path class="cls-5" d="M 316.992 106.048 A 1.8 1.8 0 0 0 318.579 107" data-round="1"/>
+  <line class="cls-5" x1="330.712" y1="102.4" x2="398.5" y2="102.4" data-round="1"/>
+  <line class="cls-5" x1="312.6" y1="107" x2="314.9" y2="102.4"/>
+  <line class="cls-5" x1="332.1" y1="125.8" x2="322.4" y2="107"/>
+  <line class="cls-5" x1="329.6" y1="121.1" x2="398.5" y2="121.1"/>
+  <line class="cls-5" x1="327.3" y1="116.1" x2="398.5" y2="116.1"/>
+  <line class="cls-5" x1="332.3" y1="116.8" x2="334.5" y2="112.1"/>
+  <line class="cls-5" x1="334.5" y1="111.4" x2="398.5" y2="111.4"/>
+  <line class="cls-1" x1="398.5" y1="50.6" x2="398.5" y2="130.2"/>
+  <line class="cls-5" x1="327.3" y1="107" x2="329.102" y2="103.395" data-round="1"/>
+<path class="cls-5" d="M 330.712 102.4 A 1.8 1.8 0 0 0 329.102 103.395" data-round="1"/>
+  <line class="cls-4" x1="302.649" y1="115.82" x2="312.3" y2="97.7" data-round="1"/>
+  <line class="cls-5" x1="309.7" y1="36.8" x2="295.2" y2="36.8"/>
+  <line class="cls-5" x1="303.865" y1="32.2" x2="295.2" y2="32.2" data-round="1"/>
+  <line class="cls-5" x1="323.611" y1="27.8" x2="295.2" y2="27.8" data-round="1"/>
+  <line class="cls-5" x1="318.698" y1="23.4" x2="260.5" y2="23.4" data-round="1"/>
+  <line class="cls-5" x1="305" y1="18.1" x2="260.5" y2="18.7"/>
+  <line class="cls-5" x1="408.4" y1="9.1" x2="250.9" y2="9.1"/>
+  <line class="cls-5" x1="305" y1="18.7" x2="307.3" y2="23.4"/>
+  <line class="cls-5" x1="327.1" y1="9.1" x2="320.301" y2="22.418" data-round="1"/>
+<path class="cls-5" d="M 318.698 23.4 A 1.8 1.8 0 0 0 320.301 22.418" data-round="1"/>
+  <line class="cls-5" x1="334.5" y1="9.1" x2="325.205" y2="26.836" data-round="1"/>
+<path class="cls-5" d="M 323.611 27.8 A 1.8 1.8 0 0 0 325.205 26.836" data-round="1"/>
+  <line class="cls-5" x1="314.8" y1="27.8" x2="309.7" y2="36.6"/>
+  <line class="cls-5" x1="307.1" y1="27.8" x2="305.489" y2="31.175" data-round="1"/>
+<path class="cls-5" d="M 303.865 32.2 A 1.8 1.8 0 0 0 305.489 31.175" data-round="1"/>
+  <line class="cls-1" x1="363.8" y1="13.8" x2="363.8" y2="22.8"/>
+  <line class="cls-4" x1="363.8" y1="18.7" x2="383.433" y2="18.7" data-round="1"/>
+  <line class="cls-4" x1="383.967" y1="18.373" x2="388.7" y2="9.1" data-round="1"/>
+<path class="cls-4" d="M 383.433 18.7 A 0.6 0.6 0 0 0 383.967 18.373" data-round="1"/>
+  <rect class="cls-2" x="368.7" y="13.8" width="10.1" height="9"/>
+  <line class="cls-1" x1="408.4" y1="4.7" x2="408.4" y2="13.8"/>
+  <line class="cls-4" x1="260.5" y1="27.8" x2="295.2" y2="27.8"/>
+  <line class="cls-4" x1="260.5" y1="32.2" x2="295.2" y2="32.2"/>
+  <line class="cls-4" x1="260.5" y1="36.8" x2="295.2" y2="36.8"/>
+  <rect class="cls-2" x="260.8" y="13.8" width="34.4" height="27.1"/>
+  <line class="cls-1" x1="250.9" y1="4.7" x2="250.9" y2="13.8"/>
+  <line class="cls-1" x1="9.8" y1="67.1" x2="63.7" y2="67.1"/>
+  <line class="cls-1" x1="9.8" y1="80.8" x2="64" y2="80.8"/>
+  <line class="cls-1" x1="93.2" y1="67.1" x2="147.3" y2="67.1"/>
+  <line class="cls-1" x1="93.5" y1="80.8" x2="147.6" y2="80.8"/>
+  <line class="cls-5" x1="324.7" y1="60" x2="326.413" y2="63.581" data-round="1"/>
+  <line class="cls-5" x1="328.029" y1="64.605" x2="398.5" y2="64.9" data-round="1"/>
+<path class="cls-5" d="M 326.413 63.581 A 1.8 1.8 0 0 0 328.029 64.605" data-round="1"/>
+  <line class="cls-5" x1="321.9" y1="55.6" x2="398.5" y2="55.6"/>
+  <line class="cls-5" x1="326.9" y1="46.2" x2="408.4" y2="46.2"/>
+  <line class="cls-5" x1="332.3" y1="125.8" x2="398.5" y2="125.8"/>
+  <line class="cls-5" x1="329.095" y1="138.834" x2="312.4" y2="106.9" data-round="1"/>
+  <line class="cls-5" x1="330.69" y1="139.8" x2="403.5" y2="139.8" data-round="1"/>
+<path class="cls-5" d="M 329.095 138.834 A 1.8 1.8 0 0 0 330.69 139.8" data-round="1"/>
+  <line class="cls-4" x1="309.9" y1="130.2" x2="302.647" y2="116.381" data-round="1"/>
+<path class="cls-4" d="M 302.649 115.82 A 0.6 0.6 0 0 0 302.647 116.381" data-round="1"/>
+  <line class="cls-5" x1="250.9" y1="111.4" x2="314.8" y2="111.4"/>
+  <line class="cls-4" x1="314.437" y1="130.2" x2="305" y2="130.2" data-round="1"/>
+  <line class="cls-4" x1="329.432" y1="158.178" x2="314.968" y2="130.522" data-round="1"/>
+<path class="cls-4" d="M 314.437 130.2 A 0.6 0.6 0 0 1 314.968 130.522" data-round="1"/>
+  <line class="cls-4" x1="329.432" y1="176.878" x2="297.6" y2="116.1" data-round="1"/>
+  <line class="cls-5" x1="250.9" y1="121.1" x2="289.114" y2="121.1" data-round="1"/>
+  <line class="cls-5" x1="324.194" y1="185.639" x2="290.706" y2="122.061" data-round="1"/>
+<path class="cls-5" d="M 289.114 121.1 A 1.8 1.8 0 0 1 290.706 122.061" data-round="1"/>
+  <line class="cls-5" x1="250.9" y1="130.2" x2="279.311" y2="130.2" data-round="1"/>
+  <line class="cls-5" x1="317.3" y1="200.6" x2="280.905" y2="131.164" data-round="1"/>
+<path class="cls-5" d="M 279.311 130.2 A 1.8 1.8 0 0 1 280.905 131.164" data-round="1"/>
+  <line class="cls-5" x1="285.4" y1="111.4" x2="275.5" y2="130.2"/>
+  <line class="cls-5" x1="282.9" y1="116.1" x2="275.5" y2="121.1"/>
+  <line class="cls-1" x1="295.9" y1="117.5" x2="300.1" y2="115.3"/>
+  <line class="cls-4" x1="317.3" y1="134.8" x2="314.938" y2="139.525" data-round="1"/>
+  <line class="cls-4" x1="329.431" y1="167.58" x2="314.944" y2="140.072" data-round="1"/>
+<path class="cls-4" d="M 314.938 139.525 A 0.6 0.6 0 0 0 314.944 140.072" data-round="1"/>
+  <line class="cls-4" x1="408.4" y1="168" x2="329.962" y2="167.9" data-round="1"/>
+<path class="cls-4" d="M 329.431 167.58 A 0.6 0.6 0 0 0 329.962 167.9" data-round="1"/>
+  <line class="cls-4" x1="408.4" y1="177.2" x2="329.963" y2="177.2" data-round="1"/>
+<path class="cls-4" d="M 329.432 176.878 A 0.6 0.6 0 0 0 329.963 177.2" data-round="1"/>
+  <line class="cls-5" x1="317.5" y1="200.6" x2="408.4" y2="200.6"/>
+  <line class="cls-4" x1="408.4" y1="158.5" x2="329.963" y2="158.5" data-round="1"/>
+<path class="cls-4" d="M 329.432 158.178 A 0.6 0.6 0 0 0 329.963 158.5" data-round="1"/>
+  <line class="cls-4" x1="378.63" y1="149.513" x2="373.9" y2="158.2" data-round="1"/>
+  <line class="cls-4" x1="408.4" y1="149.2" x2="379.156" y2="149.2" data-round="1"/>
+<path class="cls-4" d="M 378.63 149.513 A 0.6 0.6 0 0 1 379.156 149.2" data-round="1"/>
+  <line class="cls-4" x1="381.033" y1="154.127" x2="378.8" y2="158.5" data-round="1"/>
+  <line class="cls-4" x1="408.4" y1="153.8" x2="381.567" y2="153.8" data-round="1"/>
+<path class="cls-4" d="M 381.033 154.127 A 0.6 0.6 0 0 1 381.567 153.8" data-round="1"/>
+  <line class="cls-4" x1="376.3" y1="158.2" x2="378.8" y2="163.2"/>
+  <line class="cls-4" x1="376.133" y1="163.527" x2="373.9" y2="167.9" data-round="1"/>
+  <line class="cls-4" x1="408.4" y1="163.2" x2="376.667" y2="163.2" data-round="1"/>
+<path class="cls-4" d="M 376.133 163.527 A 0.6 0.6 0 0 1 376.667 163.2" data-round="1"/>
+  <line class="cls-5" x1="305" y1="92.7" x2="310" y2="83.4"/>
+  <line class="cls-1" x1="250.9" y1="107" x2="250.9" y2="134.8"/>
+  <line class="cls-4" x1="297.4" y1="181.9" x2="270.6" y2="130.2"/>
+  <line class="cls-4" x1="265.7" y1="130.2" x2="268.1" y2="134.8"/>
+  <line class="cls-1" x1="266.4" y1="136.2" x2="270.6" y2="134"/>
+  <line class="cls-4" x1="260.8" y1="130.2" x2="263.1" y2="134.8"/>
+  <line class="cls-1" x1="261.5" y1="136.2" x2="265.7" y2="134"/>
+  <line class="cls-4" x1="255.8" y1="130.2" x2="258.2" y2="134.8"/>
+  <line class="cls-1" x1="256.6" y1="136.2" x2="260.8" y2="134"/>
+  <rect class="cls-2" x="383.8" y="144.5" width="24.6" height="28.1"/>
+  <line class="cls-1" x1="408.4" y1="205.3" x2="408.4" y2="172.6"/>
+  <line class="cls-1" x1="403.5" y1="144.3" x2="403.5" y2="134.8"/>
+  <line class="cls-1" x1="293" y1="183.9" x2="301.4" y2="179.7"/>
+  <line class="cls-5" x1="339.4" y1="130.1" x2="339.4" y2="135" data-round="1"/>
+  <line class="cls-5" x1="341.2" y1="136.8" x2="391.8" y2="136.8" data-round="1"/>
+<path class="cls-5" d="M 339.4 135 A 1.8 1.8 0 0 0 341.2 136.8" data-round="1"/>
+  <line class="cls-5" x1="393.6" y1="135" x2="393.6" y2="130.1" data-round="1"/>
+<path class="cls-5" d="M 391.8 136.8 A 1.8 1.8 0 0 0 393.6 135" data-round="1"/>
+  <path class="cls-6" d="M339.4,129.7h54.2v-.8h-54.2M339.4,131.2h54.2v-.8h-54.2"/>
+  <rect class="cls-9" x="297.4" y="140.6" width="5.9" height="29.9" transform="translate(-37.9 150.1) rotate(-26.5)"/>
+  <rect class="cls-3" x="297.4" y="140.6" width="5.9" height="29.9" transform="translate(-37.9 150.1) rotate(-26.5)"/>
+  <rect class="cls-9" x="374" y="190.6" width="29.5" height="6.1"/>
+  <rect class="cls-3" x="374" y="190.6" width="29.5" height="6.1"/>
+  <line class="cls-1" x1="312.2" y1="167.3" x2="297.5" y2="139.3"/>
+  <line class="cls-5" x1="325.786" y1="186.6" x2="408.4" y2="186.6" data-round="1"/>
+<path class="cls-5" d="M 324.194 185.639 A 1.8 1.8 0 0 0 325.786 186.6" data-round="1"/>
+  <line class="cls-5" x1="369" y1="200.6" x2="361.5" y2="186.2"/>
+  <line class="cls-5" x1="369" y1="186.2" x2="361.5" y2="200.6"/>
+</svg>

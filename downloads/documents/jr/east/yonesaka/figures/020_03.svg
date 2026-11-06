@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="/common/tlmaps.css"?>
+<?xml-stylesheet type="text/css" href="/common/fonts/GSG-Pm-HSNT.css"?>
+<svg id="_Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 736 171.8">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-width: .8px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-2, .cls-5, .cls-6 {
+        stroke-linejoin: round;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15 {
+        fill: #000;
+      }
+
+      .cls-12, .cls-16 {
+        stroke-width: 0px;
+      }
+
+      .cls-13 {
+        font-size: 11px;
+      }
+
+      .cls-13, .cls-14, .cls-15 {
+        font-family: 'GenShinGothic-P-Medium-HSNT';
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-miterlimit: 8;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+
+      .cls-23 {
+        letter-spacing: 0em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4, .cls-6 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        stroke-width: .5px;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: 0em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        font-size: 16px;
+      }
+
+      .cls-33 {
+        letter-spacing: 0em;
+      }
+
+      .cls-34 {
+        letter-spacing: 0em;
+      }
+
+      .cls-35 {
+        letter-spacing: 0em;
+      }
+
+      .cls-15 {
+        font-size: 8px;
+      }
+
+      .cls-36 {
+        letter-spacing: 0em;
+      }
+
+      .cls-37 {
+        letter-spacing: 0em;
+      }
+
+      .cls-38 {
+        letter-spacing: 0em;
+      }
+
+      .cls-39 {
+        letter-spacing: 0em;
+      }
+
+      .cls-40 {
+        letter-spacing: 0em;
+      }
+
+      .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        letter-spacing: 0em;
+      }
+
+      .cls-43 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        fill: #fff;
+      }
+
+      .cls-44 {
+        letter-spacing: 0em;
+      }
+
+      .cls-45 {
+        letter-spacing: 0em;
+      }
+
+      .cls-46 {
+        letter-spacing: 0em;
+      }
+
+      .cls-47 {
+        letter-spacing: 0em;
+      }
+
+      .cls-48 {
+        letter-spacing: 0em;
+      }
+
+      .cls-49 {
+        letter-spacing: 0em;
+      }
+
+      .cls-50 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-14" transform="translate(162.4 134.8)"><tspan x="0" y="0">今泉</tspan></text>
+  <text class="cls-14" transform="translate(337.4 134.8)"><tspan x="0" y="0">萩生</tspan></text>
+  <text class="cls-14" transform="translate(439.4 134.8)"><tspan x="0" y="0">羽前椿</tspan></text>
+  <text class="cls-14" transform="translate(541 134.8)"><tspan x="0" y="0">手</tspan><tspan class="cls-31" x="16" y="0">ノ</tspan><tspan x="29" y="0">子</tspan></text>
+  <text class="cls-14" transform="translate(651.4 134.8)"><tspan x="0" y="0">羽前沼沢</tspan></text>
+  <text class="cls-13" transform="translate(153.8 149.6)"><tspan x="0" y="0">I</tspan><tspan class="cls-34" x="3.4" y="0">m</tspan><tspan class="cls-28" x="13.8" y="0">a</tspan><tspan class="cls-45" x="20.2" y="0">i</tspan><tspan class="cls-8" x="23.4" y="0">z</tspan><tspan x="28.8" y="0">u</tspan><tspan class="cls-34" x="35.6" y="0">m</tspan><tspan x="46" y="0">i</tspan></text>
+  <text class="cls-13" transform="translate(336.6 149.6)"><tspan class="cls-44" x="0" y="0">H</tspan><tspan class="cls-48" x="8.2" y="0">a</tspan><tspan class="cls-45" x="14.6" y="0">g</tspan><tspan class="cls-8" x="21" y="0">y</tspan><tspan x="27" y="0">u</tspan></text>
+  <text class="cls-13" transform="translate(427.4 149.6)"><tspan class="cls-20" x="0" y="0">U</tspan><tspan class="cls-1" x="8" y="0">z</tspan><tspan x="13.4" y="0">e</tspan><tspan class="cls-20" x="19.6" y="0">n</tspan><tspan class="cls-22" x="26.4" y="0">-</tspan><tspan class="cls-21" x="30.4" y="0">T</tspan><tspan class="cls-32" x="37.2" y="0">s</tspan><tspan x="42.4" y="0">u</tspan><tspan class="cls-48" x="49.2" y="0">bak</tspan><tspan x="69" y="0">i</tspan></text>
+  <text class="cls-13" transform="translate(543.6 149.6)"><tspan class="cls-42" x="0" y="0">T</tspan><tspan x="6.8" y="0">e</tspan><tspan class="cls-20" x="13" y="0">n</tspan><tspan class="cls-45" x="19.8" y="0">o</tspan><tspan class="cls-48" x="26.6" y="0">k</tspan><tspan x="33" y="0">o</tspan></text>
+  <text class="cls-13" transform="translate(638.8 149.6)"><tspan class="cls-20" x="0" y="0">U</tspan><tspan class="cls-1" x="8" y="0">z</tspan><tspan x="13.4" y="0">e</
